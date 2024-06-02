@@ -1,4 +1,4 @@
-En este repositorio se encuentra el Desarrollo de una API REST con relaciones unidireccionales SQL de personas en una fiesta con habilidades usando Postman con MariaDB en Spring Boot:
+En este repositorio se encuentra el Desarrollo de una API REST con relaciones unidireccionales SQL de instructores e información de estos usando Postman con MariaDB en Spring Boot:
 -
 ## ***API REST relaciones SQL unidireccionales en Spring Boot***
 
